@@ -7,7 +7,7 @@ function whisper (string) {
   return string.toLowerCase()
 }
 var uppercase = "Hello!"
-uppercase.toUpperCase() === uppercase
+uppercase.toUpperCase() === toLowerCase
 
 function sayHiToGrandma (string) {
   console.log('I cant hear you'.toLowerCase())
