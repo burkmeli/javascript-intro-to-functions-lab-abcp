@@ -8,5 +8,5 @@ function whisper (string) {
 }
 
 function sayHiToGrandma (string) {
-  console.log('I cant hear you')
+  console.log('I cant hear you'.toLowerCase)
 }
