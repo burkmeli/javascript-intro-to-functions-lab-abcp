@@ -8,5 +8,5 @@ function whisper (string) {
 }
 
 function sayHiToGrandma (string) {
-  return string.toUppercase('I cant hear you!')
+  return string.toUppercase()
 }
