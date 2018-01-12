@@ -8,8 +8,8 @@ function whisper (string) {
 }
 
 function sayHiToGrandma = (string) => {
-  console.log('I can\'t hear you')
-  vav lowercase = 'I can\'t hear you'
+  console.log('I can\'t hear you');
+  vav lowercase = 'I can\'t hear you';
   lowercase.toLowerCase() === lowercase
   
 }
